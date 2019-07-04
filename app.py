@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # 運行以下程式需安裝模組: line-bot-sdk, flask
 
 # 引入flask模組
